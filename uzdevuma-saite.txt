@@ -1,0 +1,12 @@
+https://www.figma.com/file/FY9ZW3gGoyG58uujVYqNtY/KLUS?node-id=175%3A0
+
+
+veido dizainu
+
+https://getbootstrap.com/docs/4.5/layout/grid/
+
+lejuplādējam css un js prieks majaslapas kuru taisam lai viss css nebuutu no jauna jaaraksta
+
+https://fonts.google.com/specimen/Poppins?query=Poppins&sidebar.open=true&selection.family=Poppins:ital,wght@0,500;1,300
+
+lejuplaadejam google fontus kurus vaig majaslapai

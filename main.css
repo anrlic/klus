@@ -1,0 +1,175 @@
+.kr-kolonna {
+    background: linear-gradient(180deg, #0084F8 0%, #00C6FF 100%);
+}
+
+.my-col2 {
+    background: #E5E5E5;
+}
+
+.klus-homepage {
+    height: 100vh;
+    max-width: 100%;
+}
+
+html,
+body {
+    height: 100vh;
+}
+
+.ld-kolonna {
+    background: #E5E5E5;
+}
+
+.sveiks {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30pt;
+    line-height: 70px;
+    /* or 130% */
+    text-align: center;
+    /* primary/white */
+    color: #FFFFFF;
+    position: absolute;
+    width: 361px;
+    height: 140px;
+    left: 121px;
+    top: 128px;
+}
+
+.sveiksteksts {
+    position: absolute;
+    width: 449px;
+    height: 36px;
+    left: 76px;
+    top: 348px;
+    /* header/h5 */
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    text-align: center;
+    /* primary/white */
+    color: #FFFFFF;
+}
+
+.hrsveiks {
+    position: absolute;
+    width: 248px;
+    height: 0px;
+    left: 177px;
+    top: 308px;
+    /* primary/white */
+    border: 1px solid #FFFFFF;
+}
+
+.imgsveiks {
+    /* undraw_science_fqhl 1 */
+    position: absolute;
+    width: 459px;
+    height: 365.23px;
+    left: 71px;
+    /*top: 512px; */
+    bottom: 52px;
+}
+
+
+/* Ko Tu vēlies darīt šodien? */
+
+.lab-sveiks {
+    position: absolute;
+    width: 474px;
+    height: 162px;
+    /* left: 285px; */
+    top: 128px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 54px;
+    line-height: 81px;
+    /* primary/b200 */
+    color: #0084F8;
+}
+
+.labais-teksts {
+    /* Piekļūsti savas skolas laboratorijai vai 
+aplūku publiski pieejamo informāciju un datus par laboratoriju */
+    position: absolute;
+    width: 634px;
+    height: 68px;
+    /* left: 681px; */
+    top: 322px;
+    /* body/large */
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 170.23%;
+    /* or 34px */
+    /* secondary/d300 */
+    color: #52616B;
+}
+
+
+/* ***************************** POGAS *************************/
+
+.zila-poga {
+    background: #0084F8;
+}
+
+.sarkana-poga {
+    background: #FF8576;
+}
+
+.balta-poga {
+    border: 1px solid #0084F8;
+}
+
+.zila-poga-teksts {
+    width: 99px;
+    height: 35px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 34px;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+
+/* Ziņot par kļūdu */
+
+.sarkana-poga-teksts {
+    position: absolute;
+    top: 100px;
+    width: 143px;
+    height: 35px;
+    left: 124px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    /* primary/white */
+    color: #FFFFFF;
+}
+
+.balta-poga-teksts {
+    width: 241px;
+    height: 35px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 34px;
+    align-items: center;
+    color: #0084F8;
+}
+
+.pogu-grupa {
+    position: absolute;
+    top: 512px;
+}
